@@ -16,6 +16,6 @@ The findings will help the business maximize profitability, improve sales effici
 
 You can download a copy of the dataset [here](https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset)
 
-The detailed sales analysis can be seen [here]([www.github.com/elijah-alabi-ng/Supermarket_Sales_Analytics](https://github.com/elijah-alabi-ng/Supermarket_Sales_Analytics/blob/main/sample_superstore.ipynb))
+The detailed sales analysis can be seen [here](https://github.com/elijah-alabi-ng/Supermarket_Sales_Analytics/blob/main/sample_superstore.ipynb)
 
 Appreciations to [HNG Internship](https://hng.tech/internship) for providing the inspiration for this analysis.
