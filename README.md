@@ -1,4 +1,4 @@
-# Supermarket_Sales_Analytics
+# Supermarket Sales Analytics
 
 ![Supermarket](/supermarket.jpg)
 
